@@ -144,4 +144,4 @@ const MT = {
   ]
 };
 
-export const MT;
+export default MT;

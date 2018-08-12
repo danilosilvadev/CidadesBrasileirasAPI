@@ -148,4 +148,4 @@ const PA = {
   ]
 };
 
-export const PA;
+export default PA;

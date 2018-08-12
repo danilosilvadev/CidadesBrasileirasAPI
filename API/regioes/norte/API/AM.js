@@ -67,4 +67,4 @@ const AM = {
 	]
 };
 
-export const AM;
+export default AM;

@@ -298,4 +298,4 @@ const SC = {
   ]
 };
 
-export const SC;
+export default SC;

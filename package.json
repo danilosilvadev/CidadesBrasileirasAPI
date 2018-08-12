@@ -1,0 +1,27 @@
+{
+  "name": "cidadesbrasileirasapi",
+  "version": "1.0.1",
+  "description": "API com cidades brasileiras para usos diversos.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilosilvadev/CidadesBrasileirasAPI.git"
+  },
+  "keywords": [
+    "brasil",
+    "cidades",
+    "brasileiras"
+  ],
+  "author": "danilosilvadev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danilosilvadev/CidadesBrasileirasAPI/issues"
+  },
+  "homepage": "https://github.com/danilosilvadev/CidadesBrasileirasAPI#readme"
+}
