@@ -2,7 +2,17 @@ const DF = {
   "sigla": "DF",
   "nome": "Distrito Federal",
   "cidades": [
-    "Brasília"
+    "Águas Claras",
+    "Brasília",
+    "Ceilândia",
+    "Gama",
+    "Guará",
+    "Plano Piloto",
+    "Planaltina",
+    "Recanto das Emas",
+    "Samambaia",
+    "Santa Maria",
+    "Taguatinga"
   ]
 };
 

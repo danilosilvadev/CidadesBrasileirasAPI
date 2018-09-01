@@ -1,6 +1,6 @@
 {
   "name": "cidadesbrasileirasapi",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "API com cidades brasileiras para usos diversos.",
   "main": "index.js",
   "directories": {
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/danilosilvadev/CidadesBrasileirasAPI/issues"
   },
-  "homepage": "https://github.com/danilosilvadev/CidadesBrasileirasAPI#readme"
+  "homepage": "https://github.com/danilosilvadev/CidadesBrasileirasAPI#readme",
+  "dependencies": {
+    "npm": "^6.4.1"
+  }
 }
